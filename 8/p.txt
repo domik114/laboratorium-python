@@ -1,0 +1,4 @@
+To zostanie dodane do pliku!
+To bedzie w nowej linijce
+Pierwsze zdanie do wpisania.
+Drugie zdanie testowe.

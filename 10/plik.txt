@@ -1,0 +1,1 @@
+slonce:sun;ksiezyc:moon;gwiazda:star;
